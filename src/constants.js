@@ -1,0 +1,4 @@
+export const TABBAR_HEIGHT = 0;
+
+export const DROPDOWN_OPEN_DURATION = 225;
+export const DROPDOWN_CLOSE_DURATION = 195;
